@@ -1,0 +1,199 @@
+
+
+.titrequisommenous {
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 600;
+  text-transform: uppercase;
+font-family:tahoma, "geneva", sans-serif;
+font-size: 20px; 
+color: #FF0000; 
+text-align: center;
+margin-top: 2px;    
+}
+.titrequisommenous2 {
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 600;
+  text-transform: uppercase;
+font-family:tahoma, "geneva", sans-serif;
+font-size: 20px; 
+color: #FF0000; 
+text-align: center;
+margin-top: 55px;    
+}
+
+
+.contenubut {
+
+text-align: right;
+margin-right: 90px;
+margin-top: 19px;
+}
+.contenupresentation {
+text-align: left;
+margin-left: 90px;
+
+}
+.dons2 {
+
+float:right;
+width: 500px;
+margin-right: 50px;
+margin-left: 60px;
+
+
+}
+.dons {
+
+  float:left;
+  width: 500px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+  margin-right: 50px;
+  
+  }
+  
+
+#Footer 
+  
+  footer{ 
+      flex-shrink:0; 
+      border-top: 1px dashed #000;
+      width: 100% ;
+      background-image:url("https://images.squarespace-cdn.com/content/v1/5b708e364611a078ccb974f4/1579861647787-MBJJ79NBENK2LNRDPJN5/ke17ZwdGBToddI8pDm48kL09TvqB6YeUiNYH-jwWpmMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnNtBNBruflmD0RHeWgRS6K9ZhmuCUzo352JViOi-q8IOTVAOkdzhZ9NOP1XiNF_zWA/fond+couleur+rose.jpg?format=2500w") ; 
+      color: #333
+  }
+  
+  .contenu-footer{
+      display:flex; 
+      /*width: 1200px ;*/
+      background-color:azure;
+      margin: 0 auto; 
+      align-items:flex-start; 
+      justify-content:center; 
+      font-size: 15px;
+      padding: 50px 0 100px; 
+      margin-top: 200px;
+  }
+  
+  .bloc { 
+      width: 25%;
+      margin: 0 30px;
+  }
+  
+  .footer-reseaux h3,
+  .footer-contact h3,
+  .footer-horraire h3{
+          
+          font-size: 20px;
+          padding-bottom:20px; 
+  }
+  
+  .footer-contact p{
+          padding: 30px ;
+      
+  }
+  
+  
+  .liste-contact,
+  .liste-services, { 
+      list-style-type: none; 
+      
+  }
+  
+  .logotaille{
+      width: 33px; 
+      
+  }
+  
+  .footeur-contact p{
+      padding: 10px 0
+      
+  }
+  .footeur-horraire li{
+          padding: 2px 0;
+  }
+  .footeur-reseaux li{
+      
+          padding: 5px 0; 
+      
+  }
+  .liste-services a{ 
+      text-decoration: none; 
+      color:#333 ; 
+      
+  }
+  
+  .liste-services a:hover{
+      color: rgb(3,3,3);
+      
+  }
+  
+  #fond-haut{
+      height:300px;
+      background-image:url(ImageDeFondEnLargeur.jpg);
+  }
+  
+  #titre-central{
+      text-align:center;
+      margin: 15px 0px 15px 0px
+  }
+  
+  
+  .imagegroupe {
+      width: 300px;
+      height: 220px;
+      border: 5px solid black;
+      border-radius: 5px;
+      margin: 70px;
+      margin-top: 180px;
+  }
+      
+  #fond-central{
+      height:500px;
+      margin-top: 175px;
+      
+  }
+  
+   #texte-fond-central{
+       float:left;
+      width: 700px;
+      text-align: justify;
+      margin-left: 50px;
+      height: 250px;
+   }
+   
+   .photo-fond-central{
+      float: right;
+      width: 295px;
+      margin-right: 175px;
+      margin-bottom: 50px;
+      border: 5px solid gray;
+   }
+   
+  #"texte-fond-central"{
+      font-size: 200px; 
+  }
+   
+   .Intro {
+       margin-bottom: 75px; 
+       text-align:center; 
+       
+   }
+   
+   
+   
+   .TextDebutFin{
+       margin-bottom: 25px; 
+       font-size: 18px;
+   }
+   
+   .Milieu{
+        margin-bottom: 25px;
+        font-size: 18px;
+   }
+   
+      
+   
+  
